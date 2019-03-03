@@ -34,7 +34,10 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 16,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/avatar-128x128.png",
+    "noImageResize": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
