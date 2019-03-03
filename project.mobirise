@@ -33,7 +33,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 16,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/avatar-128x128.png",
     "noImageResize": "",
